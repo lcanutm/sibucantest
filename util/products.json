@@ -11,35 +11,35 @@
             "id": "prod1",
             "nombre": "camiseta",
             "descripcion": "Pollover de la marca nike, de muy buena calidad",
-            "precio": 22.50,
+            "precio": 30.00,
             "img": "/producsImg/camiseta.jpg"
         },
         {
             "id": "prod2",
             "nombre": "Short",
             "descripcion": "Pollover de la marca nike, de muy buena calidad",
-            "precio": 22.50,
+            "precio": 25.00,
             "img": "/producsImg/short.webp"
         },
         {
             "id": "prod3",
             "nombre": "Gorra",
             "descripcion": "Pollover de la marca nike, de muy buena calidad",
-            "precio": 22.50,
+            "precio": 17.50,
             "img": "/producsImg/gorra.jpg"
         },
         {
             "id": "prod4",
             "nombre": "Chaqueta",
             "descripcion": "Pollover de la marca nike, de muy buena calidad",
-            "precio": 22.50,
+            "precio": 50.50,
             "img": "/producsImg/chaqueta.jpg"
         },
         {
             "id": "prod5",
             "nombre": "Abrigo",
             "descripcion": "Pollover de la marca nike, de muy buena calidad",
-            "precio": 22.50,
+            "precio": 63.99,
             "img": "/producsImg/abrigo.jpg"
         }
     ]
